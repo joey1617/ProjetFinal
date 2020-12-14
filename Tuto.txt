@@ -1,0 +1,10 @@
+Commande et Tutoriel pour jouer:
+
+- W,A,S,D pour avancer
+- F pour sprinter
+- Espace pour sauter
+
+- Cliquer sur le gâteau permet de Sauter plus haut et de faire des backflip quand vous tener l'espace.
+- La boîte à la fin de la deuxième platform permet à l'astronaute de flotter et de faire automatiquement un grand saut.
+- Cliquer sur la bière permet de faire des flips et de changer les zombies en renards.
+
